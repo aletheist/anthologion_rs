@@ -1,0 +1,33 @@
+[psalms]
+translation="kjv"
+verse_delimter="\\"
+numbering_basis="mt"
+
+[[psalm]]
+#The number isn't strictly needed, since toml arrays are indexed. This is more for the human.
+number=1
+text="""
+Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.\\
+But his delight is in the law of the Lord; and in his law doth he meditate day and night.\\
+And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.\\
+The ungodly are not so: but are like the chaff which the wind driveth away.\\
+Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.\\
+For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish.\\
+"""
+
+[[psalm]]
+number=1
+text="""
+Why do the heathen rage, and the people imagine a vain thing?\\
+The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,\\
+Let us break their bands asunder, and cast away their cords from us.\\
+He that sitteth in the heavens shall laugh: the Lord shall have them in derision.\\
+Then shall he speak unto them in his wrath, and vex them in his sore displeasure.\\
+Yet have I set my king upon my holy hill of Zion.\\
+I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.\\
+Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.\\
+Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter's vessel.\\
+Be wise now therefore, O ye kings: be instructed, ye judges of the earth.\\
+Serve the Lord with fear, and rejoice with trembling.\\
+Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.\\
+"""

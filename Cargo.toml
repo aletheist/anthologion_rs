@@ -1,0 +1,12 @@
+[package]
+name = "anthologion_rs"
+version = "0.0.1"
+authors = ["aletheist <aletheist@users.noreply.github.com>"]
+
+[lib]
+name="anthologion"
+path="src/lib.rs"
+
+[dependencies]
+toml="*"
+
